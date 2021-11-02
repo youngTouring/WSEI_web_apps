@@ -1,0 +1,68 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: right;
+}
+
+h1{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Arial;
+    color: #5a84d3;
+    border-style: solid;
+    border-color: #EE6FA9;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.recorderContainer,
+.keyboardContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#keyboardPanel {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+
+#recorderPanel {
+    margin-top: 20px;
+}
+
+.keyboardKey {
+    width: 90px;
+    height: 90px;
+    background-color: #A0E6C7;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+    color: black;
+    user-select: none;
+    text-align: center;
+}
+
+.keyboardKey:hover {
+    cursor: pointer;
+}
+
+.keyboardKey:active {
+    background-color: rgb(39, 175, 175);
+}
+.record-keyboard{
+    max-width: 50px;
+}

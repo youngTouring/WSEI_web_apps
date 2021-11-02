@@ -1,0 +1,6 @@
+.weatherCard .weatherInfo img {
+  height: 100px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+/*# sourceMappingURL=image_style.css.map */

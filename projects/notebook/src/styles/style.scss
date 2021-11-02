@@ -1,0 +1,17 @@
+@import './add_notes_button.scss';
+@import './variables.scss';
+@import './notes_small_title.scss';
+@import './note_activate_background.scss';
+@import './notes_small_updated.scss';
+@import './notes_sidebar.scss';
+@import './notes_small_body.scss';
+@import './notes_preview.scss';
+
+.notes * {
+    font-family: sans-serif;
+}
+
+.notes {
+    display: flex;
+    height: 100%;
+}

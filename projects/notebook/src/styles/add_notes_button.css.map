@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,MAAM,CAAC;EACH,UAAU,ECJC,OAAiB;EDK5B,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;EACZ,KAAK,ECNY,KAAkB;EDOnC,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,OAAO;CAIvB;;AAXD,AAQI,MARE,AAQD,MAAM,CAAC;EACJ,MAAM,EAAE,OAAO;CAClB",
+    "sources": [
+        "add_notes_button.scss",
+        "variables.scss"
+    ],
+    "names": [],
+    "file": "add_notes_button.css"
+}

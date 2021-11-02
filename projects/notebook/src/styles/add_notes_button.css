@@ -1,0 +1,14 @@
+button {
+  background: #61aa6e;
+  width: 200px;
+  height: 30px;
+  color: white;
+  font-size: 16px;
+  border-radius: 30px;
+  font-family: 'Arial';
+}
+
+button:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=add_notes_button.css.map */

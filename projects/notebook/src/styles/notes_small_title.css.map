@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACf,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "notes_small_title.scss"
+    ],
+    "names": [],
+    "file": "notes_small_title.css"
+}

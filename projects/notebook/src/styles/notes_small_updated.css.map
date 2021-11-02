@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,oBAAoB,CAAC;EACjB,UAAU,EAAE,MAAM;EAClB,KAAK,ECDU,OAAkB;EDEjC,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "notes_small_updated.scss",
+        "variables.scss"
+    ],
+    "names": [],
+    "file": "notes_small_updated.css"
+}

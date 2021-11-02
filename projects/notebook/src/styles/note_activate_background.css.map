@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,yBAAyB,CAAC;EACtB,gBAAgB,ECDQ,OAAkB;EDE1C,WAAW,EAAE,IAAI;EACjB,aAAa,EAAE,GAAG;CACrB",
+    "sources": [
+        "note_activate_background.scss",
+        "variables.scss"
+    ],
+    "names": [],
+    "file": "note_activate_background.css"
+}

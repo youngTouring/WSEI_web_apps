@@ -1,0 +1,23 @@
+.notes_preview {
+    display: flex;
+    flex-direction: column;
+    padding: 2em 3em;
+    flex-grow: 1;
+}
+.notes_title,
+.notes_body {
+    border: none;
+    outline: none;
+    width: 100%;
+}
+.notes_title {
+    font-size: 3em;
+    font-weight: bold;
+}
+.notes_body {
+    flex-grow: 1;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-top: 2em;
+    resize: none;
+}

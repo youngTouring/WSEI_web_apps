@@ -1,0 +1,7 @@
+@import './variables.scss';
+
+.notes_list_item_selected {
+    background-color: $activeNoteBackgroundColor;
+    font-weight: bold;
+    border-radius: 7px;
+}
